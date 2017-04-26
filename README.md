@@ -9,17 +9,17 @@ You can use the test.ipyb file to do testing, a cleaner code is available in the
 
 ![Correct Predictions](images/examples.png)
 
-1. Correctly classified examples.
+*1. Correctly classified examples.*
 
 ![Incorrect Predictions](images/error_examples.png)
 
-1. Incorrectly classified examples.
+*2. Incorrectly classified examples.*
 
 ![Activation Map](images/activations.png)
 
-1. This shows the weights of the neural netowrk for each class. As you can see the neural network learns a representation for each digit.
+*3. This shows the weights of the neural netowrk for each class. As you can see the neural network learns a representation for each digit.*
 
 ![Confusion Matrix](images/conf_matrix.png)
 
-1. Confusion matrix, Shows the classifcation for data points.
+*4. Confusion matrix, Shows the classifcation for data points.*
 
